@@ -6,10 +6,10 @@
 ## Internal-sender-identifier
 ## Source-organization
 ## Organization-address
+## Contact-email
 ## Contact-name
 ## Contact-phone
 ## Bag-Count
-## Contact-email
 ## nyu-dl-archivesspace-resource-url
 ## nyu-dl-archivesspace-accession-url
 ## nyu-dl-content-classification
