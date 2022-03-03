@@ -6,7 +6,7 @@ Contact-Name:  Benjamin Franklin
 Contact-Phone: +1-212-998-0000
 External-Identifier: 1b2ed571-90e3-40ec-bfb0-7243a523d14g
 Internal-Sender-Identifier: tamwag/aia000
-Organization-address: 70 Washington Square South, New York, NY 10012
+Organization-Address: 70 Washington Square South, New York, NY 10012
 Payload-Oxum: 16665549865.119
 Source-organization: ACM
 nyu-dl-archivesspace-resource-url: https://archivesspace.library.nyu.edu:8089/repositories/9/resources/999
