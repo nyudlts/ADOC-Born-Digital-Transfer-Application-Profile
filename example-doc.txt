@@ -1,9 +1,9 @@
 Bag-Count: 1 of ?
 Bag-Software-Agent: go-bagit v0.2.0-alpha 
 Bagging-Date: 2022-02-15
-Contact-email: ben.franklin@nyu.edu
-Contact-name:  Benjamin Franklin
-Contact-phone: +1-212-998-0000
+Contact-Email: ben.franklin@nyu.edu
+Contact-Name:  Benjamin Franklin
+Contact-Phone: +1-212-998-0000
 External-Identifier: 1b2ed571-90e3-40ec-bfb0-7243a523d14g
 Internal-Sender-Identifier: tamwag/aia000
 Organization-address: 70 Washington Square South, New York, NY 10012
@@ -13,6 +13,6 @@ nyu-dl-archivesspace-resource-url: https://archivesspace.library.nyu.edu:8089/re
 nyu-dl-content-classification: processed_collection
 nyu-dl-content-type: electronic_records
 nyu-dl-hostname: archivematica.dlib.nyu.edu
-nyu-dl-pathname: /home/archivematica/AIPsStore/1b2e/d571/90e3/40ec/bfb0/7243/a523/d14f/TW_AIA_084-1b2ed571-90e3-40ec-bfb0-7243a523d14f
+nyu-dl-pathname: /var/archivematica/sharedDirectory/www/AIPsStore/1b2e/d571/90e3/40ec/bfb0/7243/a523/d14f/TW_AIA_084-1b2ed571-90e3-40ec-bfb0-7243a523d14f
 nyu-dl-project-name: tamwag/aia000
 nyu-dl-rstar-collection-id: 2a31d94f-8a2a-4702-be48-637cb8eb80bb
