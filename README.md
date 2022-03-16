@@ -16,7 +16,7 @@ X of X, or X of ?, where X is an integer
 ### nyu-dl-archivesspace-accession-url
 ### nyu-dl-archivesspace-resource-url
 ### nyu-dl-content-classification
-either: `open`, `closed, or `restricted`
+either: `open`, `closed`, or `restricted`
 ### nyu-dl-content-type	
 always `electronic_records`
 ### nyu-dl-hostname
