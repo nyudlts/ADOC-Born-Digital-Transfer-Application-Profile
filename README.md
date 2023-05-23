@@ -1,18 +1,20 @@
 # Archivematica bag-info.txt field
 
+##Standard Bagit Tags
 ### Bag-Count
 X of X, or X of ?, where X is an integer
-
 ### Bag-Software-Agent
 ### Bagging-Date
 ### Contact-Email
 ### Contact-Name
 ### Contact-Phone
 ### External-Identifier
-### Internal-sender-Identifier
+### Internal-Sender-Identifier
 ### Organization-Address
 ### Payload-Oxum
-### Source-organization
+### Source-Organization
+
+##NYU Tags
 ### nyu-dl-archivesspace-accession-url
 ### nyu-dl-archivesspace-resource-url
 ### nyu-dl-content-classification
