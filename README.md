@@ -22,7 +22,6 @@ either: `open`, `closed`, or `restricted`
 ### nyu-dl-content-type	
 always `electronic_records`
 ### nyu-dl-hostname
-### nyu-dl-package-type
 ### nyu-dl-pathname
 ### nyu-dl-project-name
 ### nyu-dl-rstar-collection-id
