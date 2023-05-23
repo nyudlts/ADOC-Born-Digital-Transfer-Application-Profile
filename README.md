@@ -1,6 +1,6 @@
 # Archivematica bag-info.txt field
 
-##Standard Bagit Tags
+## Standard Bagit Tags
 ### Bag-Count
 X of X, or X of ?, where X is an integer
 ### Bag-Software-Agent
@@ -14,7 +14,7 @@ X of X, or X of ?, where X is an integer
 ### Payload-Oxum
 ### Source-Organization
 
-##NYU Tags
+## NYU Tags
 ### nyu-dl-archivesspace-accession-url
 ### nyu-dl-archivesspace-resource-url
 ### nyu-dl-content-classification
