@@ -1,18 +1,22 @@
 Bag-Count: 1 of ?
-Bag-Software-Agent: go-bagit v0.2.0-alpha 
-Bagging-Date: 2022-02-15
-Contact-Email: ben.franklin@nyu.edu
-Contact-Name:  Benjamin Franklin
-Contact-Phone: +1-212-998-0000
-External-Identifier: 1b2ed571-90e3-40ec-bfb0-7243a523d14g
-Internal-Sender-Identifier: tamwag/aia000
+Bag-Software-Agent: bagit.py v1.7.0 
+Bagging-Date: 2023-05-18
+Contact-Email: archivist@nyu.edu@nyu.edu
+Contact-Name:  Archivist X
+Contact-Phone: +1-212.998.0000
+External-Identifier: ac0346c6-2927-4361-9cc3-4abf0e559c7c
+Internal-Sender-Identifier: tamwag/tam810
 Organization-Address: 70 Washington Square South, New York, NY 10012
-Payload-Oxum: 16665549865.119
-Source-organization: ACM
-nyu-dl-archivesspace-resource-url: https://archivesspace.library.nyu.edu:8089/repositories/9/resources/999
-nyu-dl-content-classification: open
+Payload-Oxum: 2066098226.1692
+Source-Organization: ACM
+nyu-dl-accession-id: 2022.070
+nyu-dl-archivesspace-accession-url: https://archivesspace.library.nyu.edu:8489/repositories/2/accessions/7332
+nyu-dl-archivesspace-resource-url: https://archivesspace.library.nyu.edu:8489/repositories/2/resources/3382
+nyu-dl-content-classification: closed
 nyu-dl-content-type: electronic_records
-nyu-dl-hostname: archivematica.dlib.nyu.edu
-nyu-dl-pathname: /var/archivematica/sharedDirectory/www/AIPsStore/1b2e/d571/90e3/40ec/bfb0/7243/a523/d14f/TW_AIA_084-1b2ed571-90e3-40ec-bfb0-7243a523d14f
-nyu-dl-project-name: tamwag/aia000
-nyu-dl-rstar-collection-id: 2a31d94f-8a2a-4702-be48-637cb8eb80bb
+nyu-dl-hostname: pco01la-1646s.cfs.its.nyu.edu
+nyu-dl-pathname: /var/archivematica/tmp/TW_TAM_810-batch-1-ac0346c6-2927-4361-9cc3-4abf0e559c7c
+nyu-dl-project-name: tamwag/tam810
+nyu-dl-resource-id: TAM.810
+nyu-dl-resource-title: Mike Alewitz Papers
+nyu-dl-rstar-collection-id: c55bd1bc-9f8a-4b6d-bdbd-b1b9302aa97e
