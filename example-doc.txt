@@ -10,7 +10,7 @@ Organization-Address: 70 Washington Square South, New York, NY 10012
 Payload-Oxum: 16665549865.119
 Source-organization: ACM
 nyu-dl-archivesspace-resource-url: https://archivesspace.library.nyu.edu:8089/repositories/9/resources/999
-nyu-dl-content-classification: processed_collection
+nyu-dl-content-classification: open
 nyu-dl-content-type: electronic_records
 nyu-dl-hostname: archivematica.dlib.nyu.edu
 nyu-dl-pathname: /var/archivematica/sharedDirectory/www/AIPsStore/1b2e/d571/90e3/40ec/bfb0/7243/a523/d14f/TW_AIA_084-1b2ed571-90e3-40ec-bfb0-7243a523d14f
