@@ -25,3 +25,5 @@ always `electronic_records`
 ### nyu-dl-pathname
 ### nyu-dl-project-name
 ### nyu-dl-rstar-collection-id
+### nyu-dl-access-status
+either `Digital objects on request`, `Staff-only access`
