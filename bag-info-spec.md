@@ -29,9 +29,10 @@ Organization transferring the content.
 
 ## NYU Tags
 ### nyu-dl-archivesspace-accession-url
-optional used only for unproceessed accessions being uploaded to r*
+optional archivespace url used only for unproceessed accessions being uploaded to r*<br>
+`/repositories/x/accessions/x` : where *x* is an integer
 ### nyu-dl-archivesspace-resource-url
-/repositories/x/resources/x : where x is an integer
+`/repositories/x/resources/x` : where *x* is an integer
 ### nyu-dl-content-classification
 either: `open`, `closed`, or `restricted`
 ### nyu-dl-content-type        
