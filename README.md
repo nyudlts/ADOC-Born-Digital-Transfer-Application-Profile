@@ -1,4 +1,4 @@
-# Archivematica bag-info.txt field
+# bag-info.txt fields
 
 ## Standard Bagit Tags
 ### Bag-Count
