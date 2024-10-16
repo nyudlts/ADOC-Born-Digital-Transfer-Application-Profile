@@ -1,4 +1,5 @@
-# Archivematica bag-info.txt field
+# Archivematica bag-info.txt fields
+#### format version: `1.0.0`
 
 ## Standard Bagit Tags
 ### Bag-Count
@@ -27,3 +28,11 @@ always `electronic_records`
 ### nyu-dl-rstar-collection-id
 ### nyu-dl-access-status
 either: `Digital objects on request`, `Staff-only access`
+### nyu-dl-package-format
+### nyu-dl-resource-id
+### nyu-dl-resource-title
+### nyu-dl-transfer-type
+determines package routing within the repository  
+if the `nyu-dl-transfer-type` label **is** present, acceptable values are: `XIP` or `AIP`   
+if the `nyu-dl-transfer-type` label **is NOT** present, the package is routed as if `XIP` were specified  
+### nyu-dl-use-statement
