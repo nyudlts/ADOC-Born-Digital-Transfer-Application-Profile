@@ -1,4 +1,6 @@
 # bag-info.txt fields
+#### format version: `1.0.0`
+
 
 ## Standard Bagit Tags
 ### Bag-Count
@@ -29,5 +31,10 @@ the host from where the transfer to rstar is initiated
 the unix path on the host where the transfer is initiated from
 ### nyu-dl-project-name
 the rstar partner and project name, e.g. fales/mss100
-### nyu-dl-rstar-collection-id
-the rstar uuid
+### nyu-dl-resource-id
+### nyu-dl-resource-title
+### nyu-dl-transfer-type
+determines package routing within the repository  
+if the `nyu-dl-transfer-type` label **is** present, acceptable values are: `XIP` or `AIP`   
+if the `nyu-dl-transfer-type` label **is NOT** present, the package is routed as if `XIP` were specified  
+### nyu-dl-use-statement
